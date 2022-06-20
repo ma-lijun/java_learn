@@ -1,6 +1,6 @@
 package com.mlj.exten_;
 
-public class Base {
+public class Base extends TopBase {
     public String name;
     private int age;
 

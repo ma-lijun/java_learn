@@ -11,6 +11,7 @@ public class Sub extends Base{
 
     public Sub(String name, int age){
         super(age);
+//        this(age);
         System.out.println("子类的 Sub(String name, int age) 构造器 被调用： ");
     };
 

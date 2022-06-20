@@ -8,5 +8,6 @@ public class ExtendsDetail {
         Sub sub2 = new Sub("mlj");
         System.out.println("==== 第 3个对象 ====");
         Sub sub3 = new Sub("mlj", 35);
+
     }
 }
